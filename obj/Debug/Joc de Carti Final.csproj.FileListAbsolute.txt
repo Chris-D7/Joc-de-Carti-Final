@@ -1,0 +1,12 @@
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\bin\Debug\Joc de Carti Final.exe.config
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\bin\Debug\Joc de Carti Final.exe
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\bin\Debug\Joc de Carti Final.pdb
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc de Carti Final.csproj.AssemblyReference.cache
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc_de_Carti_Final.ClientForm.resources
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc_de_Carti_Final.Properties.Resources.resources
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc de Carti Final.csproj.GenerateResource.cache
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc de Carti Final.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc de Carti Final.exe
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc de Carti Final.pdb
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc_de_Carti_Final.MenuForm.resources
+D:\Uni\Programming\JOC DE CARTI\Joc de Carti Final\obj\Debug\Joc_de_Carti_Final.ServerForm.resources
